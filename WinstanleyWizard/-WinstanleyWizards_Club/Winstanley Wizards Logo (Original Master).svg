@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="542" height="206" viewBox="0 0 542 206">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        fill: url(#pattern);
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 7267 2758">
+      <image width="7267" height="2758" xlink:href="../Winstanley%20Wizards%20Logo%20(Original%20Master).png"/>
+    </pattern>
+  </defs>
+  <g id="Winstanley_Wizards_Logo_Original_Master_" data-name="Winstanley Wizards Logo (Original Master)" class="cls-1">
+    <rect class="cls-2" width="542" height="206"/>
+    <rect class="cls-3" x="0.5" y="0.5" width="541" height="205"/>
+  </g>
+</svg>
