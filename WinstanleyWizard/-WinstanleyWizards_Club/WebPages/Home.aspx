@@ -99,9 +99,9 @@
             position: absolute;
             left: 209px;
             top: 30px;
-            width: 119px;
-            height: 35px;
-            bottom: 442px;
+            width: 208px;
+            height: 65px;
+            bottom: 412px;
         }
         .auto-style15 {
             position: absolute;
@@ -111,6 +111,8 @@
             
             color: white;
             width: 800px;
+            font-size: 15px;
+            font-weight: 300;
         }
         .auto-style16 {
             background-color: #0063b5;
@@ -153,7 +155,7 @@
             width: 313px;
         }
         .auto-style23 {
-            height: 429px;
+            height: 300px;
             position: absolute;
             left: -13px;
             top: 2211px;
