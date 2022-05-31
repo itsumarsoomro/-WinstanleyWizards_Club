@@ -26,32 +26,32 @@
         .auto-style2 {
             position: absolute;
             left: 209px;
-            top: 30px;
+            top: 33px;
             width: 208px;
             height: 65px;
-            bottom: 674px;
+            bottom: 146px;
         }
         .auto-style3{
             position: absolute;
             color: white;
-            left: 820px;
-            top: 34px;
+            left: 815px;
+            top: 35px;
             right: 525px;
             text-decoration: none;
         }
         .auto-style4{
             position: absolute;
-            color: white;
-            left: 943px;
-            top: 34px;
-            right: 450px;
+            color: white;     
+            left: 977px;
+            top: 35px;
+            right: 416px;
             text-decoration: none;
         }
         .auto-style5{
             position: absolute;
             color: white;
-            left: 1088px;
-            top: 34px;
+            left: 1137px;
+            top: 35px;
             height: 23px;
             text-decoration: none;
         }
@@ -59,9 +59,9 @@
             text-align: center;
         }
         .auto-style7 {
-          
-            left: 117px;
-            top: 566px;
+            top: 78px;
+            /*padding-top: 78px;*/
+            /*top: 566px;*/
             margin-left: 0px;
             margin-bottom: 0px;
             padding-left: 209px;
@@ -97,7 +97,7 @@
         <asp:HyperLink ID="HyperLink6" runat="server" CssClass="auto-style5" Font-Names="Calibri" Font-Size="20px" NavigateUrl="~/WebPages/News.aspx">News</asp:HyperLink>
     
         <asp:Label ID="Label1" runat="server" Font-Names="Calibri" Font-Size="56pt" Text="Contacts" CssClass="auto-style1" ForeColor="White" Font-Bold="False"></asp:Label>
-        <asp:Image ID="Image2" runat="server" Height="65px" Width="208px" CssClass="auto-style2" ImageUrl="https://sandbox-uploads.imgix.net/u/1652121485-10be6352f31aa6301dfe7a2cd23364c6?w=600"/>
+        <asp:Image ID="Image2" runat="server" Height="56px" Width="188px" CssClass="auto-style2" ImageUrl="https://sandbox-uploads.imgix.net/u/1652121485-10be6352f31aa6301dfe7a2cd23364c6?w=600"/>
         <asp:Image ID="Image1" runat="server" ImageUrl="https://uploads-ssl.webflow.com/5e71b829d37a8158f8643ac3/5e7e5d4a5836db2c66b3284b_bg-header.jpg" Height="400px" ImageAlign="Middle" Width="100%" />
        
         </div>

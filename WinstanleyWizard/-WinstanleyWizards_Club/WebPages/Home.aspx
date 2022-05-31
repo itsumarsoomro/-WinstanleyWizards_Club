@@ -11,7 +11,7 @@
             font-family: Calibri;
             padding: 0px;
             margin: 0px;   
-            text-decoration: none;
+            /*text-decoration: none;*/
         }
         body{
             overflow-x: hidden;
@@ -52,7 +52,6 @@
             color: white;
             left: 815px;
             top: 46px;
-            right: 525px;
             text-decoration: none;
         }
         .auto-style6 {
@@ -69,16 +68,15 @@
             left: 1137px;
             top: 46px;
             height: 23px;
+            text-decoration: none;
         }
         .auto-style11 {
             position: absolute;
-            right: 209px;
-          /*  left: 1161px;*/
+            right: 209px;      
             top: 46px;
             width: 28px;
             height: 28px;
             bottom: 431px;
-           /* left: 1243px;*/
         }
         .Histroy{
             background-color: #0063b5;
@@ -192,16 +190,19 @@
             position: absolute;
             left: 987px;
             top: 102px;
+            text-decoration: none;
         }
         .auto-style29 {
             position: absolute;
             left: 1122px;
             top: 102px;
+            text-decoration: none;
         }
         .auto-style30 {
             position: absolute;
             right: 209px;
             top: 102px;
+            text-decoration: none;
         }
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
         .auto-style32 {
