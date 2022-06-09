@@ -5,6 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>News</title>
+    <link rel="shortcut icon" type="image/png" href="https://i.postimg.cc/gJK6QyyS/Group-4.png">
     <style>
         *{
             padding: 0px;
@@ -39,24 +40,24 @@
         .auto-style3{
               position: absolute;
             color: white;
-            left: 820px;
-            top: 34px;
+            left: 815px;
+            top: 35px;
             right: 525px;
             text-decoration: none;
         }
         .auto-style4{
             position: absolute;
             color: white;
-            left: 920px;
-            top: 34px;
-            right: 410px;
+            left: 973px;
+            top: 35px;
+            right: 414px;
             text-decoration: none;
         }
         .auto-style5{
             position: absolute;
             color: white;
-            left: 1088px;
-            top: 34px;
+            left: 1137px;
+            top: 35px;
             height: 23px;
             text-decoration: none;
         }
@@ -67,7 +68,7 @@
             height: 87px;
             margin-left: 0px;
             margin-bottom: 0px;
-            padding-left: 250px;
+            padding-left: 209px;
         }
         .auto-style7{
             text-decoration: none;

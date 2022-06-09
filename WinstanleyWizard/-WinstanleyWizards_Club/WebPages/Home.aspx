@@ -5,7 +5,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Home</title>
-   
+    <link rel="shortcut icon" type="image/png" href="https://i.postimg.cc/gJK6QyyS/Group-4.png">
+  
     <style>
         *{
             font-family: Calibri;
@@ -228,14 +229,17 @@
     <div>
 
     <a href="https://www.facebook.com/profile.php?id=100054888258353" target="_blank"><asp:Image ID="Image2" runat="server" CssClass="auto-style11" ImageUrl="https://img.icons8.com/ios-filled/344/ffffff/facebook-new.png"  /></a>
-    <asp:Image ID="Image3" runat="server" CssClass="auto-style13" ImageUrl="https://sandbox-uploads.imgix.net/u/1652121485-10be6352f31aa6301dfe7a2cd23364c6?w=600" />
     <asp:Image ID="Image1" runat="server" Height="700px"  ImageUrl="https://uploads-ssl.webflow.com/5e71b829d37a8158f8643ac3/5e7e5d4a5836db2c66b3284b_bg-header.jpg" Width="100%" CssClass="auto-style26" />
 
+    <div class="nav">
+    <%-- Logo --%>
+    <asp:Image ID="Image3" runat="server" CssClass="auto-style13" ImageUrl="https://sandbox-uploads.imgix.net/u/1652121485-10be6352f31aa6301dfe7a2cd23364c6?w=600" />
+    <%-- Nav links --%>
     <div class="auto-style19" style="margin-bottom: -50px">
-
     <asp:HyperLink ID="HyperLink2" runat="server" CssClass="auto-style4" Font-Names="Calibri" Font-Size="20px" NavigateUrl="~/WebPages/Home.aspx">Home</asp:HyperLink>
     <asp:HyperLink ID="HyperLink3" runat="server" CssClass="auto-style6" Font-Names="Calibri" Font-Size="20px" NavigateUrl="~/WebPages/Contact.aspx">Contact</asp:HyperLink>
     <asp:HyperLink ID="HyperLink4" runat="server" CssClass="auto-style7" Font-Names="Calibri" Font-Size="20px" NavigateUrl="~/WebPages/News.aspx">News</asp:HyperLink>  
+    </div>
     </div>
 
     <div class="auto-style12">

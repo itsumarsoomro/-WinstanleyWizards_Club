@@ -5,6 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Contacts</title>
+    <link rel="shortcut icon" type="image/png" href="https://i.postimg.cc/gJK6QyyS/Group-4.png">
     <style>
         *{
             padding: 0;
@@ -75,6 +76,7 @@
         }
         .auto-style10{
             text-decoration: none;
+            right: 209px;
         }
         .m-body{
             width: 100%;           
